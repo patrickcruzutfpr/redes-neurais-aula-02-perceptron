@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+
+# Virtual environment
+.venv/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.log
